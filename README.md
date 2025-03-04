@@ -15,7 +15,7 @@ Add to your `rebar.config`:
 
 ```erlang
 {deps, [
-    {embryo, "0.1.0"}
+    {embryo, "0.1.1"}
 ]}.
 ```
 
